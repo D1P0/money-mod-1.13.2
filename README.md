@@ -1,1 +1,9 @@
-# money-mod-1.13.2
+-------------------------
+Dipo's Money Mod [1.13.2]
+-------------------------
+Minecraft mod that adds Euro money to the game.
+It contains coins from 0.01€ to 2.00€ and bills from 5.00€ to 500.00€
+
+Item preview
+------------
+![Item preview](screenshots/Screenshot1.png)

@@ -1,17 +1,17 @@
-{
-    "item.dipomoneymod.cent1": "0,01€",
-    "item.dipomoneymod.cent2": "0,02€",
-    "item.dipomoneymod.cent5": "0,05€",
-    "item.dipomoneymod.cent10": "0,10€",
-    "item.dipomoneymod.cent20": "0,20€",
-    "item.dipomoneymod.cent50": "0,50€",
-    "item.dipomoneymod.euro1": "1,00€",
-    "item.dipomoneymod.euro2": "2,00€",
-    "item.dipomoneymod.euro5": "5,00€",
-    "item.dipomoneymod.euro10": "10,00€",
-    "item.dipomoneymod.euro20": "20,00€",
-    "item.dipomoneymod.euro50": "50,00€",
-    "item.dipomoneymod.euro100": "100,00€",
-    "item.dipomoneymod.euro200": "200,00€",
-    "item.dipomoneymod.euro500": "500,00€"
+ï»¿{
+    "item.dipomoneymod.cent1": "0,01â‚¬",
+    "item.dipomoneymod.cent2": "0,02â‚¬",
+    "item.dipomoneymod.cent5": "0,05â‚¬",
+    "item.dipomoneymod.cent10": "0,10â‚¬",
+    "item.dipomoneymod.cent20": "0,20â‚¬",
+    "item.dipomoneymod.cent50": "0,50â‚¬",
+    "item.dipomoneymod.euro1": "1,00â‚¬",
+    "item.dipomoneymod.euro2": "2,00â‚¬",
+    "item.dipomoneymod.euro5": "5,00â‚¬",
+    "item.dipomoneymod.euro10": "10,00â‚¬",
+    "item.dipomoneymod.euro20": "20,00â‚¬",
+    "item.dipomoneymod.euro50": "50,00â‚¬",
+    "item.dipomoneymod.euro100": "100,00â‚¬",
+    "item.dipomoneymod.euro200": "200,00â‚¬",
+    "item.dipomoneymod.euro500": "500,00â‚¬"
 }
